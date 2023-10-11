@@ -60,3 +60,8 @@ body {
   text-align: center;
 }
 
+.sizing { 
+  max-width: 50%;
+  margin: 5% 25% 2% 25%;
+}
+
